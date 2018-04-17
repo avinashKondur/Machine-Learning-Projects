@@ -1,0 +1,6 @@
+StartFrame#,EndFrame#,X(UL),Y(UL),ObjectLabel,ActivationLevel(probability),ObjectType
+59,59,45,211,barn,0.621336,STILL
+21,21,257,254,planetarium,0.527987,STILL
+74,74,965,66,"flagpole, flagstaff",0.288741,STILL
+11,11,964,74,pole,0.276077,STILL
+46,46,-65,210,sliding door,0.264637,STILL
